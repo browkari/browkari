@@ -3,23 +3,15 @@
   Passionate about programming, creation, and art.
 </h4>
 
-<table align="center" border="0">
-  <tr>
-    <td width="200">
+<div align="center" border="0">
       <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3bHE5ZWU4bWs1N3gyNXNpYWdjeHQ0cG9odjd5NHJiZGMwd2ZhM2hocCZlcD12MV9zdGlja2Vyc19yZWxhdGVkJmN0PXM/J1v18RJriE1En4lA4z/giphy.gif" width="200"/>
-    </td>
-    <td>
-      <ul>
+</div>
+<ul>
         <li>👩🏻‍💻 Currently Studying <b>Systems Engineering</b></li>
         <li>🔭 I’m currently working on <b>K-Max Studios (movie ticket system)</b></li>
         <li>🍥 I’m currently learning <b>Web-Development, Java Spring, SqlServer and automations with n8n!</b></li>
         <li>👩🏻‍🎓 Learning my skills on <a href="https://platzi.com/p/browkari/">Platzi🌷</a></li>
-      </ul>
-    </td>
-  </tr>
-</table>
-
-
+</ul>
 <div align="left">
   
   ## Tech Stack 📲
