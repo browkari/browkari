@@ -33,18 +33,9 @@
   <img src="https://img.shields.io/badge/n8n-FF6D5B?style=for-the-badge&logo=n8n&logoColor=white" />
 </div>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=browkari&show_icons=true&theme=rose" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=browkari&layout=compact&theme=rose" height="150" />
-</p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=browkari&theme=rosepine" height="150" />
-</p>
 
-<p align="right">
-  <img src="https://profile-counter.glitch.me/browkari/count.svg" />
-</p>
+
 
 
 
