@@ -10,7 +10,7 @@
 <br>
 <ul>
         <li>👩🏻‍💻 Currently Studying <b>Systems Engineering</b></li>
-        <li>🔭 I’m currently working on <b>K-Max Studios (movie ticket system)</b></li>
+        <li>🔭 I’m currently working on <b>Viewpoint App, with React Native</b></li>
         <li>🍥 I’m currently learning <b>Web-Development, Java Spring, SqlServer and automations with n8n!</b></li>
         <li>👩🏻‍🎓 Learning my skills on <a href="https://platzi.com/p/browkari/">Platzi🌷</a></li>
 </ul>
