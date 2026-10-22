@@ -32,7 +32,7 @@
 </div>
 <br>
 <h3>Contacto: 📥 
-<a href="https://mail.google.com/mail/?view=cm&fs=1&to=browkari15@gmail.com&su=Contacto%20desde%20GitHub">
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=nidiabarriosdev@gmail.com&su=Contacto%20desde%20GitHub">
   <img src="https://img.shields.io/badge/Gmail-Escríbeme-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 </h3>
